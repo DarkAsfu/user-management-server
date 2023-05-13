@@ -1,0 +1,222 @@
+[
+    {
+      "name": "Honda Civic",
+      "make": "Honda",
+      "model": "Civic",
+      "year": 2023,
+      "price": 22000,
+      "mileage": 10000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "silver",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    },
+    {
+      "name": "Toyota Camry",
+      "make": "Toyota",
+      "model": "Camry",
+      "year": 2023,
+      "price": 25000,
+      "mileage": 5000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "black",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "navigation"
+      ]
+    },
+    {
+      "name": "Ford Mustang",
+      "make": "Ford",
+      "model": "Mustang",
+      "year": 2023,
+      "price": 30000,
+      "mileage": 1000,
+      "fuel": "gas",
+      "transmission": "manual",
+      "engine": "V8",
+      "body style": "coupe",
+      "color": "red",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "premium sound system"
+      ]
+    },
+    {
+      "name": "Chevrolet Camaro",
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "year": 2023,
+      "price": 32000,
+      "mileage": 2000,
+      "fuel": "gas",
+      "transmission": "manual",
+      "engine": "V6",
+      "body style": "coupe",
+      "color": "yellow",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    },
+    {
+      "name": "Dodge Challenger",
+      "make": "Dodge",
+      "model": "Challenger",
+      "year": 2023,
+      "price": 34000,
+      "mileage": 3000,
+      "fuel": "gas",
+      "transmission": "manual",
+      "engine": "V8",
+      "body style": "coupe",
+      "color": "blue",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "premium sound system"
+      ]
+    },
+    {
+      "name": "Nissan Altima",
+      "make": "Nissan",
+      "model": "Altima",
+      "year": 2023,
+      "price": 27000,
+      "mileage": 7000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "white",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    },
+   {
+      "name": "Kia Forte",
+      "make": "Kia",
+      "model": "Forte",
+      "year": 2023,
+      "price": 22000,
+      "mileage": 11000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "red",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    },
+    {
+      "name": "Mazda3",
+      "make": "Mazda",
+      "model": "3",
+      "year": 2023,
+      "price": 24000,
+      "mileage": 13000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "blue",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    },
+    {
+      "name": "Subaru Impreza",
+      "make": "Subaru",
+      "model": "Impreza",
+      "year": 2023,
+      "price": 26000,
+      "mileage": 15000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "silver",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    },
+    {
+      "name": "Volkswagen Jetta",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 2023,
+      "price": 28000,
+      "mileage": 17000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "black",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    },
+    {
+      "name": "Toyota Corolla",
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": 2023,
+      "price": 20000,
+      "mileage": 19000,
+      "fuel": "gas",
+      "transmission": "automatic",
+      "engine": "4 cylinder",
+      "body style": "sedan",
+      "color": "white",
+      "features": [
+        "power windows",
+        "power locks",
+        "air conditioning",
+        "cruise control",
+        "heated seats"
+      ]
+    }
+  ]
